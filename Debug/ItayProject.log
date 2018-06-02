@@ -1,0 +1,20 @@
+﻿  Source.c
+c:\users\itay\source\repos\itayproject\itayproject\source.c(31): warning C4013: 'getFuel' undefined; assuming extern returning int
+c:\users\itay\source\repos\itayproject\itayproject\source.c(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\itay\source\repos\itayproject\itayproject\source.c(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\itay\source\repos\itayproject\itayproject\source.c(43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\itay\source\repos\itayproject\itayproject\source.c(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\itay\source\repos\itayproject\itayproject\source.c(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\itay\source\repos\itayproject\itayproject\source.c(52): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\itay\source\repos\itayproject\itayproject\source.c(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\itay\source\repos\itayproject\itayproject\source.c(49): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+c:\users\itay\source\repos\itayproject\itayproject\source.c(72): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\itay\source\repos\itayproject\itayproject\source.c(154): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\itay\source\repos\itayproject\itayproject\source.c(174): warning C4047: 'return': 'char *' differs in levels of indirection from 'unsigned char **'
+c:\users\itay\source\repos\itayproject\itayproject\source.c(234): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\itay\source\repos\itayproject\itayproject\source.c(234): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\itay\source\repos\itayproject\itayproject\source.c(234): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\itay\source\repos\itayproject\itayproject\source.c(234): note: this argument is used as a buffer size
+c:\users\itay\source\repos\itayproject\itayproject\source.c(202): warning C4716: 'FirstBarcodeDig': must return a value
+c:\users\itay\source\repos\itayproject\itayproject\source.c(230): warning C4716: 'SecBarcodeDig': must return a value
+  ItayProject.vcxproj -> C:\Users\Itay\source\repos\ItayProject\Debug\ItayProject.exe
